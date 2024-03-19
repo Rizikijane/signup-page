@@ -1,0 +1,28 @@
+/* signup.component.css */
+
+.signup-container {
+    max-width: 400px;
+    margin: 2em auto;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input {
+    padding: 0.5em;
+  }
+  
+  button {
+    padding: 0.5em 1em;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+  }
+  
